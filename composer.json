@@ -1,5 +1,5 @@
 {
-  "name": "level23/pami",
+  "name": "weble-xx/pami",
   "type": "library",
   "description": "Asterisk Manager Interface (AMI) client for PHP, event driven, object oriented",
   "keywords": [
@@ -13,9 +13,15 @@
     "manager",
     "monitor"
   ],
-  "homepage": "https://github.com/level23/PAMI",
+  "homepage": "https://github.com/Weble-XX/PAMI",
   "license": "Apache-2.0",
   "authors": [
+    {
+      "name": "Markus Fohrer",
+      "email": "markus.fohrer@webked.de",
+      "homepage": "https://weble-xx.github.com/",
+      "role": "Maintainer"
+    },
     {
       "name": "Richard Stellingwerff",
       "email": "richard@level23.nl",
