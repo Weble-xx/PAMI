@@ -16,7 +16,7 @@ namespace PAMI\Message\Action;
  * @subpackage Action
  * @author     Markus Fohrer <markus.fohrer@webked.de>
  */
-class SIPPeersAction extends ActionMessage
+class PJSIPShowRegistrations extends ActionMessage
 {
     /**
      * Constructor.
